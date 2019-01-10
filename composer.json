@@ -1,0 +1,12 @@
+{
+    "name": "jungshen/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jungshen",
+            "email": "979692441@qq.com"
+        }
+    ],
+    "require": {}
+}
